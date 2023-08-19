@@ -1,3 +1,5 @@
+Using NLTK (Natural Language Toolkit)
+
 Noise removal — stripping text of formatting.
 
 Tokenization — breaking text into individual words.
